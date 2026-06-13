@@ -1,0 +1,11 @@
+# editors / os
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# audio working files
+*.wav
+*.mp3
+*.aup3
