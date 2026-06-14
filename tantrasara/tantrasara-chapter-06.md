@@ -6,7 +6,7 @@ The last chapter ended with the most outward of the practices — placing attent
 
 First, unlearn what you think time is. You probably imagine time as a vast empty container that everything happens inside of — a river flowing past you whether you like it or not, indifferent, external, carrying you from birth toward death. That picture is exactly the bondage this chapter dismantles.
 
-In this teaching, time is not a container you are trapped inside. Time is something the Lord is doing. Time is the Power of Action itself — the very same creative power that pours the whole universe into appearance. When Consciousness reaches out, takes a shape, holds it, and lets it go, that reaching-and-releasing, that before-and-after, that sequence — that is what time actually is. Time is not the stage on which creation happens. Time is the rhythm of creation happening.
+In this teaching, time is not a container you are trapped inside. Time is something the Lord is doing. Time is the Power of Action itself — the very same creative power that pours the whole universe into appearance. When Consciousness reaches out, takes a shape, holds it, and lets it go, that reaching-and-releasing, that before-and-after, that sequence — that is what time actually is. Time is not the stage on which creation happens. Time is the rhythm of creation happening. Seen in its own source, this sequencing power is the Goddess Kali, who measures the worlds out and draws them back; seen in you, it is the simple movement of your breath.
 
 And because time is the Lord's own action, it is not somewhere outside you. It lives within Consciousness, which means it lives within you, which means you are not its prisoner. You are the one performing it.
 
@@ -14,7 +14,7 @@ And because time is the Lord's own action, it is not somewhere outside you. It l
 
 Here is where it becomes practical. That cosmic rhythm of sequence — of one thing following another — has a near and intimate home in the body. It rests in the breath.
 
-Watch your own breathing and you will see the whole structure of time in miniature. The in-breath is a kind of arising. The held fullness is a kind of duration. The out-breath is a kind of dissolution. And then it begins again. Every breath you take is a small day and night, a small creation and destruction, the entire pattern of the cosmos rehearsed in the space of a few seconds, ceaselessly, without your effort.
+Watch your own breathing and you will see the whole structure of time in miniature. The in-breath is a kind of arising. The held fullness is a kind of duration. The out-breath is a kind of dissolution. And then it begins again. Every breath you take is a small day and night, a small creation and destruction, the entire pattern of the cosmos rehearsed in the space of a few seconds, ceaselessly, without your effort. The tradition takes this literally and finely: it measures the single breath into small beats and maps the whole ladder of existence across them — but that machinery belongs to study and to a teacher, and you can find it laid out in the supplement to this chapter.
 
 This is why the breath is such a powerful door. You do not need to contemplate the vast ages of the universe in the abstract. The same time that unfolds across the rising and falling of galaxies is unfolding, right now, across the rising and falling of your breath. The large is folded into the small. Learn to read the breath, and you are reading time itself.
 
@@ -26,9 +26,9 @@ As this watching deepens, something extraordinary happens. The yogi sees creatio
 
 ## Swallowing Time
 
-There is a vivid phrase the tradition uses for the culmination of this practice: the swallowing of time.
+There is a vivid phrase the tradition uses for the culmination of this practice, and Abhinavagupta uses it in his own words: the swallowing of time, *kala-grasa*.
 
-Ordinarily, time swallows you. Each moment devours the last; the past is eaten, the future looms, and you are carried along helplessly in the current, aging, losing, ending. But the yogi on this path reverses the relationship. By watching the whole of time collapse into a single breath, and then watching even that breath dissolve into the pure awareness that holds it, the sequence itself is consumed. The before-and-after is swallowed up into the timeless present that was always underneath it.
+Ordinarily, time swallows you. Each moment devours the last; the past is eaten, the future looms, and you are carried along helplessly in the current, aging, losing, ending. But the yogi on this path reverses the relationship. By watching the whole of time collapse into a single breath, and then watching even that breath dissolve into the pure awareness that holds it, the sequence itself is consumed. The before-and-after is swallowed up into the timeless present that was always underneath it. The single contemplation, which a moment ago was strung out across a series, stands whole and thought-free — sequence has nowhere left to run.
 
 When sequence is swallowed, what remains is no longer time at all. It is the changeless Light in which all the rising and falling appeared. The river is seen to have been made of the same water it flowed through. And the one who swallows time in this way does not merely understand Bhairava — they become Bhairava, the timeless Consciousness in which every moment forever arises and dissolves.
 
