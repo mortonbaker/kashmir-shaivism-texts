@@ -1,15 +1,9 @@
 # Tantrasara — Supplementary
 
-Comprehensive, read-only companion versions of the Tantrasara chapters.
+This folder holds the **fuller, more comprehensive versions** of Tantrasara material — the deeper expositions meant for *reading*, not for the audiobook narration.
 
-The main `tantrasara/` folder holds the **audiobook versions** — tightened for narration, carrying each chapter's core teaching in plain modern English. These supplementary versions are the **fuller reading versions**: they keep everything in the audio version and restore the denser material that the audio compresses out (extended technical passages, named lists of powers and deities, ritual detail, and the more intricate arguments).
+The main `tantrasara/` folder is deliberately kept lean: each chapter there is the clear, listenable summary version, sized for a teleprompter. This folder is where the additional detail lives — passages Abhinavagupta includes that are worth studying but would overload the spoken version.
 
-Use the audio version to listen and get the heart of a chapter. Use the supplementary version when you want the complete picture and more depth.
+Each file here is keyed to its main chapter (e.g. `chapter-04-supplement.md` expands `tantrasara/tantrasara-chapter-04.md`). Read the main chapter first for the shape of the teaching, then come here when you want the full picture.
 
-Each supplementary file is checked against the public-domain Sanskrit of Abhinavagupta and, where helpful, the parallel Tantraloka material. Files are added here as chapters are audited and expanded; not every chapter has a supplementary version yet.
-
-## Available
-
-| Chapter | Supplementary file | Restores |
-|---------|--------------------|----------|
-| 4 — The Path of Knowledge | tantrasara-supp-04.md | The five ritual acts turned inward (worship, oblation, recitation, observance, yoga); the four Powers (Para, Parapara, Apara, Para-as-Kali) and the twelve Kalis |
+All material is original plain-English rendering drawn from the public-domain Sanskrit of the Tantrasara, checked passage by passage against the source.
