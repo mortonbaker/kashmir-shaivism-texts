@@ -15,11 +15,8 @@ These renderings are **not** translations. They do not reproduce any existing tr
 | [Shiva Sutra](./shiva-sutra/) | Vasugupta (c. 800–850 CE) | 77 aphorisms | Complete |
 | [Spanda Karika](./spanda-karika/) | Vasugupta / Kallata (9th c.) | 52 verses | Complete |
 | [Heart of Recognition](./pratyabhijnahrdayam/) | Kshemaraja (11th c.) | 20 sutras | Complete |
-
-### Planned
-
-- **Virupakshapanchashika** — 50 verses
-- **Shivastotravali** — Utpaladeva's devotional hymns
+| [Virupaksha Panchashika](./virupaksha-panchashika/) | Virupakshanatha | 50 verses | Complete |
+| [Shivastotravali](./shivastotravali/) | Utpaladeva (9th–10th c.) | 20 hymns | Complete |
 
 ## How to read the collection
 
@@ -28,8 +25,10 @@ A natural sequence for a newcomer:
 1. **Heart of Recognition** — the whole system in twenty short steps; the best doorway.
 2. **Shiva Sutra** — the root aphorisms the tradition is built on.
 3. **Spanda Karika** — the pulse of consciousness; the vibration teaching.
-4. **Vijnana Bhairava Tantra** — the practice manual: 112 meditation techniques you can actually do, with cross-references to the Tantrasara.
-5. **Tantrasara** — the full system: paths, cosmos, and the rituals of initiation and worship.
+4. **Virupaksha Panchashika** — the universe as the body of Shiva; the Recognition teaching in fifty verses.
+5. **Vijnana Bhairava Tantra** — the practice manual: 112 meditation techniques you can actually do, with cross-references to the Tantrasara.
+6. **Tantrasara** — the full system: paths, cosmos, and the rituals of initiation and worship.
+7. **Shivastotravali** — Utpaladeva's hymns; where the whole philosophy melts into devotion and song.
 
 ## A note on the tradition
 
