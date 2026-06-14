@@ -6,7 +6,7 @@ We have walked the path of Time inside the breath and the path of Space inside t
 
 Look at the world and you see an endless chain of causes. A seed becomes a sprout. A potter shapes a pot. One thing leads to another, in order, the earlier producing the later. This seems so obvious that we never question it. The whole of ordinary life, and most of science, rests on it.
 
-This chapter asks you to look again, and what it shows is subtle, so go slowly.
+This chapter asks you to look again, and what it shows is subtle, so go slowly. Abhinavagupta splits cause-and-effect into two kinds. There is a *real* causation and an *invented* one. The real one is the single fact that the free Lord, whose very nature is to be the Doer, expands himself into the whole array from Shiva down to earth — a form distinct from his own Self yet resting entirely within it. The invented one is the apparent order we actually live among: this before that, seed before sprout, the orderly priority and posteriority of things. Both are real in their own register, but only one of them is the ground.
 
 In the deepest truth, the manifestation of the universe happens all at once, without succession. There is no real before-and-after in which one thing hands off to the next. The entire display — every level, every world, every object — arises together, in a single timeless act of Consciousness, the way an entire dream springs up complete rather than being assembled piece by piece.
 
@@ -14,9 +14,9 @@ And yet, succession clearly appears. The seed does come before the sprout. The p
 
 ## The Screen Behind Everything
 
-Here is Abhinavagupta's answer, and it turns on a single image: the screen.
+Here is Abhinavagupta's answer, and it turns on a single image he uses himself: the screen — the wall.
 
-Picture a wall, or a canvas, or a screen on which a vast and detailed scene is painted. Every figure in the painting stands in some relation to every other — this one above that one, this one behind that one, this one apparently reaching toward that one. All those relationships are real, in their way; you can trace them, describe them, depend on them. But none of them is holding the painting up. The thing that actually supports every figure is the screen itself, the same unbroken surface underneath all of them equally.
+Picture a wall, or a canvas, on which a vast and detailed scene is painted. Every figure in the painting stands in some relation to every other — this one above that one, this one behind that one, this one apparently reaching toward that one. All those relationships are real, in their way; you can trace them, describe them, depend on them. But none of them is holding the painting up. The thing that actually supports every figure is the wall itself, the same unbroken surface underneath all of them equally.
 
 The relationships among the figures are like cause and effect. The screen is the Lord's own doership — pure Consciousness, present beneath every appearance, supporting all of it at once.
 
@@ -30,16 +30,18 @@ You might ask: if the real act is timeless and all at once, why does it so persu
 
 Because that is how the limited self is built to see. The sequence is not a lie; it is a genuine feature of how the one undivided act appears once it is viewed through the contracted lens of an individual perceiver. The same fan of Consciousness that spreads itself into space also spreads itself into the appearance of order, of this-then-that, of cause leading to effect. The succession is the timeless act seen sequentially, the way a single arc of motion, filmed and played back, becomes a series of separate frames.
 
-And notice the freedom in this. Because the true cause is always the living Consciousness underneath, and not a dead mechanical chain, the world is not locked. A sprout can rise from a seed, yes — but in a dream it can rise from a clay pot, or from nothing, or from a yogi's bare will. The ordinary rules of cause and effect hold within the painting, but the painter is never bound by them, because the painter is the screen on which all rules are merely drawn.
+And notice the freedom in this. Because the true cause is always the living Consciousness underneath, and not a dead mechanical chain, the world is not locked. A sprout can rise from a seed, yes — but in a dream it can rise from a clay pot, or from nothing, or from a yogi's bare will. The tradition even lists how a single thing, a scorpion, is said to arise from any number of sources — from cow-dung, from a worm, from a yogi's will, from a mantra, from a healing herb. The ordinary rules of cause and effect hold within the painting, but the painter is never bound by them, because the painter is the screen on which all rules are merely drawn. (And just as a pot is shaped here by a potter and not found sitting ready-made on a far mountain like Meru, the apparent local cause is real in its place — while the deeper truth is that the potter's own consciousness was never separate from the Lord's in the first place.)
 
 ## Totality
 
-This leads to the chapter's quiet conclusion, which the tradition calls the doctrine of Totality.
+This leads to the chapter's quiet conclusion, which Abhinavagupta names the doctrine of Totality.
 
 Every category, every world, every individual self with its particular powers — all of it is finally one whole. The categories are not separate bricks stacked into a building. They are regions of a single undivided field, distinctions drawn on one continuous surface, like countries on a map where the land beneath the borders never actually breaks. You can name the regions, study them, travel among them. But there was only ever one ground.
 
 That one ground is the essential nature of every category: pure Consciousness, the Light, the screen, the Lord's unbroken doership. A *tattva* is not a thing in its own right. It is the one Light, holding a particular pose. To know what any category truly is, is to see through it to the single awareness wearing it — and to recognize that awareness, once again, as your own.
 
 So this chapter, for all its talk of cosmic machinery, delivers the same gift as every chapter before it. It takes the most solid-seeming fact of the world, the iron chain of cause and effect, and shows it to be a play of light on a screen that is your own deepest Self. The world is not a mechanism grinding on without you. It is a painting, and you are the surface on which it is forever being painted.
+
+The fuller machinery this chapter goes on to unfold — how the Lord's five powers become the first five categories, how the lower world is emanated and bound by the three stains, and how every category wears a double face of inner awareness and outer object — is laid out in the supplement to this chapter.
 
 Here ends the eighth chapter of the Tantrasara, called The Nature of the Categories.
