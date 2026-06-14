@@ -26,9 +26,13 @@ At the very top is the fiercest grade — grace so overwhelming that it consumes
 
 A step down is grace still very strong, but not quite annihilating. Here the awakening is intense enough that the person does not need a human teacher or external initiation in the ordinary way. Their own inner illumination rises up with such clarity — a sudden, brilliant flowering of spiritual intuition — that it burns away their ignorance from within. They come to liberation essentially on their own, leaning directly on Shiva rather than on any outer instruction. The drought breaks through an underground spring rather than a storm, but break it does, and in this very life.
 
+The tradition gives this person a name: the spontaneous teacher. Their knowledge is so complete and self-arisen that they require no scripture and no master, and out of that fullness they can themselves bestow both enjoyment and liberation on others, without any external rite. Such a one is a teacher made directly by grace rather than trained into the role.
+
 ## The Strong-but-Gentle Descent
 
 A step further down, the descent is still strong, but mixed now with a lingering pull toward the world. This person genuinely longs for the divine — the awakening is real — but they also still want the pleasures and enjoyments of embodied life, and they have not yet let those go. Grace meets them honestly where they are. They take up the path, they receive what they are ready for, and in due course they taste the enjoyments they still desire. Then, those desires finally spent, they arrive at liberation. The awakening is authentic; it simply takes the scenic route, allowing the soul to exhaust its remaining hungers before coming home.
+
+One mark of this grade is worth naming, because it is how grace shows itself in a life that still needs guidance: it turns the seeker toward a true teacher and away from false ones. The descent of power itself is what makes a person rise up, leave behind the hollow guides they had been following, and go in search of a genuine one. And the tradition is blunt about what makes a teacher genuine. A true teacher is one who is full of the living knowledge of this truth — Bhairava, the supreme Consciousness, present in human form. That, and nothing else, is the qualification. Charm, beauty, reputation, the trappings of authority — all of it is beside the point; a teacher whose only credentials are those is, however impressive, a false one. What you are looking for in a teacher is not a personality but a transmission: someone in whom the recognition is actually alive, and through whom it can pass to you.
 
 ## The Middle Descents
 
